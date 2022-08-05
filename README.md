@@ -1,2 +1,2 @@
 # Python-Files
-Files made in Python (.py) will be posted right here
+Files made by us (coolboi420p & dragon20084) will be posted right here, in this Repository
